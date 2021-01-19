@@ -1,2 +1,3 @@
-# colors-python
-ColorsPy makes it easy to access colors and use them in various programs like PyGame.
+# ColorsPy
+
+This is a simple python package that can be used for adding colors in PyGame or just to see the RGB values of almost any color.

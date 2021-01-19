@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: colorspy
+Version: 0.1
+Summary: All main RGB color values for easy access
+Home-page: https://github.com/abdullah-1312007/colors-python
+Author: abdullah-1312007
+Author-email: tcs270804@gmail.com
+License: MIT
+Description: # ColorsPy
+        
+        This is a simple python package that can be used for adding colors in PyGame or just to see the RGB values of almost any color.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

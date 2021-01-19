@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+colorspy/__init__.py
+colorspy/colorspy.py
+colorspy.egg-info/PKG-INFO
+colorspy.egg-info/SOURCES.txt
+colorspy.egg-info/dependency_links.txt
+colorspy.egg-info/not-zip-safe
+colorspy.egg-info/top_level.txt
