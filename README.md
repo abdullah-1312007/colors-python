@@ -13,7 +13,7 @@ Example Code:
 
 - For PyGame:
 ``` py
-    import colorspy as color
+    import colorspy as colors
     import pygame
 
     pygame.init()
@@ -50,6 +50,16 @@ Example Code:
 
     rgb_blue = converter.hex2rgb("0000ff") 
 ```
+- Color Picker
+``` py
+import colorspy as colors
+
+my_color = colors.color_picker()
+
+"""
+This will return a list of the RGB value and the HEX value of the color you select. There is also a argument hex_value which is a boolean. You can use that to decide that whether you want the HEX value or not.
+"""
+```
 
 v 0.1
 - Added most basic colors.
@@ -60,3 +70,10 @@ v 0.2
 
 v 0.2.1
 - Fixed a minor bug
+
+v 0.3
+- Added a whole lot more colors.
+- Added a color picker to choose colors easily.
+
+v 0.4
+- Fixed color values of some colors
